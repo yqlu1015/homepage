@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Stay grounded, yet always reaching
+subtitle: "CS master's @ USC"
 
 profile:
   align: right
@@ -15,8 +15,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Welcome to my homepage! I am a first-year master's student at the University of Southern California, majored in computer science. I'm currently working on machine learning research in the [WiDeS](https://wides.usc.edu/index.html) group. Previously, I obtained my B.Sc. in Mathematics from Southern University of Science and Technology ([SUSTech](https://www.sustech.edu.cn/en/)), China. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+At the intersection of computer science and mathematics, I am an enthusiast for advanced techniques in artificial intelligence. I completed a software development engineer internship at [BaixingAI](https://chato.cn/), where I developed a large language model-based chatbot orchestration system.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+During my undergraduate period, I published a first-author [paper](https://ieeexplore.ieee.org/document/10436965) at IEEE Globecom 2023, focusing on multi-agent reinforcement learning. Additionally, I received the Excellent Freshman Scholarship, the Merit Student Scholarship twice, and the Excellent Graduation Thesis Award.

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:memo: [First paper](https://ieeexplore.ieee.org/document/10436965) got accepted!
+:memo: My [first paper](https://ieeexplore.ieee.org/document/10436965) got accepted!
